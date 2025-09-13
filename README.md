@@ -93,8 +93,10 @@ int main() {
 ```
 
 # OUTPUT
-<img width="777" height="553" alt="image" src="https://github.com/user-attachments/assets/76c3700c-15ef-4dbe-b446-1712b23a6fba" />
-<img width="724" height="476" alt="image" src="https://github.com/user-attachments/assets/dd44e6af-2ce3-47c3-9c81-2788086d0850" />
+<img width="1429" height="668" alt="Screenshot 2025-09-13 112708" src="https://github.com/user-attachments/assets/050090a2-128a-4cd0-9e82-208e9f434902" />
+
+<img width="1349" height="611" alt="image" src="https://github.com/user-attachments/assets/32da07ec-6349-4a30-a920-5005e46086e7" />
+
 
 
 # RESULT
